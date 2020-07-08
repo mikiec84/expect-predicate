@@ -45,7 +45,7 @@
     "babel-register": "^6.3.13",
     "codecov.io": "^0.1.6",
     "cross-env": "^1.0.7",
-    "eslint": "^2.8.0",
+    "eslint": "^7.4.0",
     "eslint-config-rackt": "^1.1.1",
     "expect": "^1.14.0",
     "isparta": "^4.0.0",
